@@ -54,7 +54,7 @@ We're hiring engineers who give a shit about craft AND speed:
 | **DevOps/Infra** | Kubernetes, cloud-native, observability that actually helps debug |
 | **Full-Stack** | React/Node, design taste, shipping features end-to-end |
 
-**Email me:** chase@hana.ai
+**Email me:** chase@hanahq.ai
 **Subject:** "I built [thing that impressed people]"
 **Body:** Link to it and why you're proud of it.
 
@@ -98,7 +98,7 @@ You either:
 3. Are procrastinating on actual work (same, honestly)
 
 **Let's connect:**
-📧 chase@hana.ai
+📧 chase@hanahq.ai
 💼 [LinkedIn](https://www.linkedin.com/in/chase-w-norton/)
 🐦 [@ChaseWNorton](https://twitter.com/ChaseWNorton)
 
