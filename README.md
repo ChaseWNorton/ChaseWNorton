@@ -23,7 +23,7 @@ Shipped multi-user experiences, merchant tooling, and customer satisfaction syst
 Built an AI-powered texting platform before ChatGPT made it trendy. SMS, WhatsApp, voice. Privacy-first, GDPR-compliant, with a mood/intent engine because context matters. Scaled it. Learned hard lessons about consumer AI.
 
 **2023-2024:** Staff Engineer @ Mix.com & Nuna Inc
-Built personalized web experiences with ML. Worked on healthcare data infrastructure. Realized I'm better at 0→1 than maintaining other people's code.
+Built personalized web experiences with ML. Worked on healthcare data infrastructure.
 
 **2025:** Building Hana
 AI-first e-commerce that actually converts. Not a support bot. Not a recommendation widget. An agent that guides, compares, and closes sales. We're applying to YC S25 and actively recruiting badass engineers.
