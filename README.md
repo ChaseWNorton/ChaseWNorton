@@ -13,6 +13,9 @@ Previously: Built [Message AI](https://messageai.io) when everyone thought SMS w
 **2011-2012:** Published in *Journal of Geophysical Research*
 Studying Hawaiian climate patterns and extreme precipitation. Built neural networks to predict weather before it was cool to build neural networks.
 
+**2012-2018:** Founded & Led Chase Life
+Ran a web dev company in Hawaii, building sites for local businesses. Managed a team of 5. Learned how to ship on deadlines, deal with clients who "just want it to look like Apple," and why you should always get 50% upfront.
+
 **2018-2022:** Staff Engineer @ PayPal
 Shipped multi-user experiences, merchant tooling, and customer satisfaction systems for enterprise-scale commerce. Got 11 Bravo awards. Mentored engineers. Realized big companies move slow.
 
