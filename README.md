@@ -1,4 +1,4 @@
-# Chase Norton
+# Chase W. Norton
 
 **From predicting Hawaiian hurricanes to building AI that sells shit.**
 
