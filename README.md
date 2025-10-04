@@ -1,157 +1,122 @@
-<!-- Elegant Header with Subtle Animation -->
+<!--
+  Premium GitHub Profile README for: Chase W. Norton
+  Accent: Gold (#D4AF37) on deep charcoal. Minimal external calls, fast load.
+  Tip: Keep "heavy" widgets in <details> so the top stays snappy.
+-->
+
+<!-- HERO -->
 <div align="center">
 
-  <!-- Luxury Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=45&duration=3500&pause=1500&color=D4AF37&background=FFFFFF00&center=true&vCenter=true&multiline=false&width=800&height=80&lines=Chase+W.+Norton;Building+the+Future+of+AI+Commerce" alt="Typing SVG" />
-  </a>
+  <!-- Inline SVG wordmark with gold gradient -->
+  <svg width="920" height="140" viewBox="0 0 920 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gold" x1="0" y1="0" x2="920" y2="0">
+        <stop offset="0%"  stop-color="#F7E7A6"/>
+        <stop offset="35%" stop-color="#E9C46A"/>
+        <stop offset="70%" stop-color="#D4AF37"/>
+        <stop offset="100%" stop-color="#B68F2A"/>
+      </linearGradient>
+    </defs>
+    <text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Playfair Display, Georgia, serif" font-weight="700" font-size="42"
+          fill="url(#gold)" letter-spacing="1px">
+      Chase W. Norton
+    </text>
+    <text x="50%" y="82%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
+          font-size="18" fill="#EDEDED" opacity="0.92">
+      Building the future of AI‑first commerce — Co‑Founder & CTO @ Hana
+    </text>
+  </svg>
 
-  <!-- Elegant Subtitle -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/San_Francisco-000000?style=for-the-badge&logo=googleearth&logoColor=white&labelColor=D4AF37" alt="Location"/>
-    <img src="https://img.shields.io/badge/Y_Combinator_S25-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white" alt="YC"/>
-    <img src="https://img.shields.io/badge/Founder_@_Hana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hana"/>
-  </p>
-
-  <!-- Refined Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<!-- Sophisticated Introduction -->
-<div align="center">
-  <table border="0" align="center">
-    <tr>
-      <td width="50%" align="center">
-
-  ⚡ **Building AI-First E-Commerce at [Hana](https://github.com/ChaseWNorton)**
-
-  🚀 **Y Combinator Spring 2025 Applicant**
-
-  💭 *"Build MVPs like they're destined for success"*
-
-  🔍 **Currently recruiting exceptional engineers**
-
-      </td>
-      <td width="50%" align="center">
-        <!-- GitHub Stats with Luxury Theme -->
-        <img src="https://github-readme-stats.vercel.app/api?username=ChaseWNorton&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Dynamic Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaseWNorton&theme=react-dark&bg_color=0D1117&color=D4AF37&line=D4AF37&point=FFFFFF&hide_border=true" width="100%"/>
-</div>
-
-<!-- Professional Expertise -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technical Excellence
-  </h2>
-
-  <!-- Core Technologies with Elegant Badges -->
+  <!-- Badges / quick context -->
   <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=000000" />
+    <img alt="Location: San Francisco" src="https://img.shields.io/badge/San%20Francisco-D4AF37?style=flat&labelColor=0D1117&logo=googleearth&logoColor=white">
+    <img alt="YC S25 Applicant" src="https://img.shields.io/badge/YC-S25_Applicant-FF6600?style=flat&labelColor=0D1117&logo=ycombinator&logoColor=white">
+    <a href="mailto:chase@hana.ai"><img alt="Email" src="https://img.shields.io/badge/chase@hana.ai-Contact-EB4335?style=flat&labelColor=0D1117&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/chase-w-norton/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&labelColor=0D1117&logo=linkedin&logoColor=white"></a>
+    <a href="https://twitter.com/ChaseWNorton"><img alt="X/Twitter" src="https://img.shields.io/badge/@ChaseWNorton-Follow-1DA1F2?style=flat&labelColor=0D1117&logo=twitter&logoColor=white"></a>
   </p>
 
-  <!-- AI & ML Stack -->
-  <p>
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000" />
-    <img src="https://img.shields.io/badge/LangChain-2C5282?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=000000" />
-    <img src="https://img.shields.io/badge/Vector_DBs-FF3E00?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000" />
-  </p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider">
 </div>
 
-<!-- Dynamic GitHub Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaseWNorton&theme=black-ice&hide_border=true&background=0D1117&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&currStreakLabel=D4AF37&sideNums=FFFFFF&sideLabels=D4AF37" />
-</div>
+<!-- WHAT I’M BUILDING -->
+### ⚡ Now shipping: **Hana** — AI‑first e‑commerce
+- Conversational shopping that **actually converts**, not just answers questions.
+- Agents that **eliminate friction** across discovery → comparison → checkout.
+- A stack designed for **latency, personalization, and revenue lift** from day one.
 
-<!-- Featured Content Section -->
-<div align="center">
-  <h2>✨ Recent Insights</h2>
+> **Hiring** exceptional builders (remote, US‑friendly time zones):  
+> **Senior Backend (dist‑sys/API)** • **AI/ML (LLMs in prod)** • **DevOps/Infra (K8s/Cloud‑native)** • **Full‑stack (React/Node)**  
+> Ping me: **chase@hana.ai** with `Subject: Hana — <Role>` and your proudest shipped thing.
 
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h4>🤖 AI Innovation</h4>
-        <p><em>AI-Powered SDK Generation</em></p>
-        <p>Revolutionizing developer experience</p>
-      </td>
-      <td align="center" width="33%">
-        <h4>🚀 OpenAI Enterprise</h4>
-        <p><em>Enterprise AI Adoption</em></p>
-        <p>Scaling AI in production</p>
-      </td>
-      <td align="center" width="33%">
-        <h4>💡 Future of Commerce</h4>
-        <p><em>AI-First E-Commerce</em></p>
-        <p>Building tomorrow's shopping</p>
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-<!-- Interactive Elements -->
-<details align="center">
-<summary><b>🎯 Currently Recruiting For</b></summary>
+<!-- PROOF / SIGNAL -->
+### 🧭 Signal over noise
+- Ex‑**PayPal** Staff Engineer (shipped multi‑user, multi‑jurisdiction, and high‑impact CX flows).  
+- Built **Message AI** (text/SMS/WhatsApp) and a pragmatic pseudo‑memory system for scalable, low‑latency chat.  
+- Author of **The Intelligent Shift** (a daily riff on practical AI & product).  
+- Recommendation highlight: *“Transforms vague requirements into clear, actionable solutions… elevates those around him.”* — teammate
 
-<br/>
+---
 
-| Position | Level | Focus Area |
-|----------|-------|------------|
-| 🔧 **Senior Backend Engineer** | Senior | Distributed Systems & APIs |
-| 🤖 **AI/ML Engineer** | Senior | LLMs & Production ML |
-| ⚙️ **DevOps & Infrastructure** | Senior | Kubernetes & Cloud Native |
-| 💻 **Full-Stack Developer** | Mid-Senior | React & Node.js |
+<!-- PRINCIPLES -->
+### 🧱 Engineering principles I won’t compromise on
+1. **Ship quality, fast.** “Move fast” ≠ “break trust.”  
+2. **Design for day‑100, not just day‑1.** Latency budgets, reliability, and observability are product features.  
+3. **Agents > assistants.** If it can act, it should — safely and audibly.  
+4. **Small teams, huge outcomes.** Ownership and taste beat headcount.
 
-<p align="center">
-  <em>Join us in building the future of AI-powered commerce at Hana</em>
+---
+
+<!-- STACK -->
+### 🛠️ Current stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=0D1117" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white&labelColor=0D1117" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000&labelColor=0D1117" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&labelColor=0D1117" alt="Node.js">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white&labelColor=0D1117" alt="AWS">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white&labelColor=0D1117" alt="OpenAI">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&labelColor=0D1117" alt="PyTorch">
+  <img src="https://img.shields.io/badge/LangChain-2C5282?style=flat&logo=chainlink&logoColor=white&labelColor=0D1117" alt="LangChain">
+  <img src="https://img.shields.io/badge/Vector_Datastores-444?style=flat&logo=redis&logoColor=white&labelColor=0D1117" alt="Vector DBs">
 </p>
 
+---
+
+<!-- SELECTED WORK / WRITING -->
+### ✨ Selected work & writing
+- **AI SDK generation** — compiling clear client surfaces from messy specs.  
+- **Enterprise AI in prod** — safe rollout patterns, evals, and “escape hatches.”  
+- **AI‑first commerce** — agents that take action, not just chat.
+
+> Newsletter: **The Intelligent Shift** — short, no‑fluff takes on applied AI.
+
+---
+
+<!-- GITHUB METRICS (IN COLLAPSIBLES SO TOP STAYS CLEAN) -->
+<details>
+  <summary><b>📈 Quick GitHub stats (click to open)</b></summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChaseWNorton&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37" alt="GitHub stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaseWNorton&theme=black-ice&hide_border=true&background=0D1117&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&currStreakLabel=D4AF37&sideNums=FFFFFF&sideLabels=D4AF37" alt="GitHub streak" height="165">
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaseWNorton&theme=react-dark&bg_color=0D1117&color=D4AF37&line=D4AF37&point=FFFFFF&hide_border=true" alt="Contribution graph">
 </details>
 
-<!-- Professional Network -->
+<!-- CONTACT -->
+### 🤝 Let’s build
+If you’re an engineer who cares about craftsmanship *and* speed, or a merchant who wants agents that convert, **reach out**:  
+**✉️  chase@hana.ai** · **🔗 /in/chase-w-norton** · **𝕏 @ChaseWNorton**
+
 <div align="center">
-  <h2>🤝 Let's Connect</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider">
+  <p><img alt="Crafted with Excellence" src="https://img.shields.io/badge/Crafted_with_Excellence-D4AF37?style=flat&labelColor=0D1117"></p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/chase-w-norton/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-    </a>
-    <a href="https://twitter.com/ChaseWNorton">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" />
-    </a>
-    <a href="mailto:chase@hana.ai">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-    </a>
-  </p>
-
-  <!-- Profile Views Counter with Elegant Style -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=ChaseWNorton&label=Profile%20Views&color=D4AF37&style=for-the-badge&labelColor=000000" alt="Profile Views" />
-  </p>
-</div>
-
-<!-- Elegant Footer -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-  <br/>
-
-  <p>
-    <img src="https://img.shields.io/badge/Crafted_with_Excellence-D4AF37?style=for-the-badge&labelColor=000000" />
-  </p>
-
-  <!-- Snake animation eating contributions -->
+  <!-- Optional: contribution snake (auto-generates via your repo action if configured) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChaseWNorton/ChaseWNorton/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChaseWNorton/ChaseWNorton/output/github-contribution-grid-snake.svg">
