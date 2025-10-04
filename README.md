@@ -2,7 +2,7 @@
 
 **From predicting Hawaiian hurricanes to building AI that sells shit.**
 
-Currently: Co-Founder & CTO @ [Hana](https://hana.ai) — bringing actual intelligence to e-commerce (not just another chatbot).
+Currently: Co-Founder & CTO @ [Hana](https://hanahq.ai) — bringing actual intelligence to e-commerce (not just another chatbot).
 
 Previously: Built [Message AI](https://messageai.io) when everyone thought SMS was dead. Turns out people like texting their AI. 🤷
 
