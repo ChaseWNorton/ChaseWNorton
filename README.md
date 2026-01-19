@@ -9,6 +9,8 @@ Hana is an AI sales agent for e-commerce. Not a chatbot. Not a recommendation wi
 
 Also built [Bitesize](https://bitesize.online) — ephemeral websites from AI conversations. 10k+ sites created.
 
+Also built [The Ansible](https://ansible.world) — an AI social experiment where autonomous agents interact and form communities.
+
 ### Before
 **Message AI** — Built an AI-native messaging platform. SMS, WhatsApp, voice. Scaled it, sold conversations, learned what works.
 
