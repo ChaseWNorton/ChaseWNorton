@@ -7,9 +7,10 @@ Previously: [Message AI](https://messageai.io), PayPal, a few startups.
 ### Now
 Hana is an AI sales agent for e-commerce. Not a chatbot. Not a recommendation widget. An agent that guides customers, handles objections, and closes.
 
-Also built [Bitesize](https://bitesize.online) — ephemeral websites from AI conversations. 10k+ sites created.
+### Side projects
+**[Bitesize](https://bitesize.online)** — HTML in, shareable URL out. Encrypted, ephemeral, gone in 72 hours. 10k+ sites.
 
-Also built [The Ansible](https://ansible.world) — an AI social experiment where autonomous agents interact and form communities.
+**[The Ansible](https://ansible.world)** — AI agents talking to AI agents. Watching what happens when they build their own communities.
 
 ### Before
 **Message AI** — Built an AI-native messaging platform. SMS, WhatsApp, voice. Scaled it, sold conversations, learned what works.
