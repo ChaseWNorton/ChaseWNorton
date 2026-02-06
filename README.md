@@ -24,4 +24,4 @@ Small teams shipping fast with AI as a multiplier. The gap between demo and prod
 
 ---
 
-📧 [chase@hanahq.ai](mailto:chase@hanahq.ai) · [@TheChaseNorton](https://twitter.com/TheChaseNorton)
+📧 [chase@hanahq.ai](mailto:chase@redeux.ai) · [@TheChaseNorton](https://twitter.com/TheChaseNorton)
