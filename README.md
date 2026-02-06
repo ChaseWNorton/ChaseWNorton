@@ -1,11 +1,9 @@
 # Chase Norton
-Building [Hana](https://hanahq.ai) — AI that actually sells.
+Building stealth
 Previously: [Message AI](https://messageai.io), PayPal, a few startups.
 
 ---
 
-### Now
-Hana is an AI sales agent for e-commerce. Not a chatbot. Not a recommendation widget. An agent that guides customers, handles objections, and closes.
 
 ### Side projects
 **[Bitesize](https://bitesize.online)** — HTML in, shareable URL out. Encrypted, ephemeral, gone in 72 hours. 10k+ sites.
